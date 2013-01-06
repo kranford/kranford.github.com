@@ -26,6 +26,7 @@
       
     </script>
   </head>
+  <link href="assets/css/prettyPhoto.css" rel="stylesheet">
   <body>
     <div id="kranfordTheme" class="clearfix pageout">
       <div id="header" class="container">
@@ -39,8 +40,8 @@
                   <li><a href="we_are_en.html">WHO WE ARE</a></li>
                   <li><a href="service_en.html">OUR SERVICES</a></li>
                   <li class="active"><a href="success_en.html">ACHIEVEMENTS</a></li>
-                  <li><a href="contact_en.html">CONTACT</a></li>
                   <li><a href="partners_en.html">PARTNERS</a></li>
+                  <li><a href="contact_en.html">CONTACT</a></li>
                   <li class="dropdown"><a data-toggle="dropdown" href="#" class="dropdown-toggle">LANGUAGE</a>
                     <ul id="idiomDropdown" role="menu" aria-labelledby="dropdownMenu" class="dropdown-menu">
                       <li><a tabindex="-1" href="success_en.html">English</a></li>
@@ -57,49 +58,70 @@
       <div id="sucess" class="container">
         <ul class="thumbnails">
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/DSC00216.jpg">
+            <div class="thumbnail"><a href="assets/img/DSC00216.jpg" rel="prettyPhoto[pp_gal]" title="Consulting on sale Elegant Townhouse in the center of Warsaw"><img alt="" src="assets/img/DSC00216.jpg"></a>
               <div class="caption">
                 <h3>Consulting on sale Elegant Townhouse in the center of Warsaw</h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/DSC00345.jpg">
+            <div class="thumbnail"><a href="assets/img/DSC00345.jpg" rel="prettyPhoto[pp_gal]" title="The sale of luxury apartments in a renovated house in the center of Warsaw"><img alt="" src="assets/img/DSC00345.jpg"></a>
               <div class="caption">
                 <h3>The sale of luxury apartments in a renovated house in the center of Warsaw</h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/DSC00341.jpg">
+            <div class="thumbnail"><a href="assets/img/DSC00341.jpg" rel="prettyPhoto[pp_gal]" title="The sale of exclusive apartments in a renovated house in the center of Warsaw"><img alt="" src="assets/img/DSC00341.jpg"></a>
               <div class="caption">
                 <h3>The sale of exclusive apartments in a renovated house in the center of Warsaw</h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/elewacje.jpg">
+            <div class="thumbnail"><a href="assets/img/elewacje.jpg" rel="prettyPhoto[pp_gal]" title="Help with buying a plot, project and permission Mall drills for Quantum Business Development"><img alt="" src="assets/img/elewacje.jpg"></a>
               <div class="caption">
                 <h3>Help with buying a plot, project and permission Mall drills for Quantum Business Development</h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/DSC00331.jpg">
+            <div class="thumbnail"><a href="assets/img/DSC00331.jpg" rel="prettyPhoto[pp_gal]" title="Acquisition and help with the purchase of an office building for the Fund for Celtic."><img alt="" src="assets/img/DSC00331.jpg"></a>
               <div class="caption">
                 <h3>Acquisition and help with the purchase of an office building for the Fund for Celtic.</h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/marcpol_1.jpg">
+            <div class="thumbnail"><a href="assets/img/z.jpg" rel="prettyPhoto[pp_gal]" title=" "><img alt="" src="assets/img/z.jpg"></a>
               <div class="caption">
                 <h3> </h3>
               </div>
             </div>
           </li>
           <li class="span6">
-            <div class="thumbnail"><img alt="" src="assets/img/marcpol_2.jpg">
+            <div class="thumbnail"><a href="assets/img/z2.jpg" rel="prettyPhoto[pp_gal]" title=" "><img alt="" src="assets/img/z2.jpg"></a>
+              <div class="caption">
+                <h3> </h3>
+              </div>
+            </div>
+          </li>
+          <li class="span6">
+            <div class="thumbnail"><a href="assets/img/z3.jpg" rel="prettyPhoto[pp_gal]" title=" "><img alt="" src="assets/img/z3.jpg"></a>
+              <div class="caption">
+                <h3> </h3>
+              </div>
+            </div>
+          </li>
+          <li class="span6">
+            <div class="thumbnail"><a href="assets/img/z4.jpg" rel="prettyPhoto[pp_gal]" title=" "><img alt="" src="assets/img/z4.jpg"></a>
+              <div class="caption">
+                <h3> </h3>
+              </div>
+            </div>
+          </li>
+          <li class="span6">
+            <div class="thumbnail"><a href="assets/img/z5.jpg" rel="prettyPhoto[pp_gal]" title=" "><img alt="" src="assets/img/z5.jpg"></a>
               <div class="caption">
                 <h3> </h3>
               </div>
@@ -126,6 +148,12 @@
       <script src="assets/js/bootstrap-typeahead.js"></script>
       <script src="assets/js/bootstrap-affix.js"></script>
       <script src="assets/js/application.js"></script>
+      <script src="assets/js/jquery.prettyPhoto.js"></script>
+      <script type="text/javascript" charset="utf-8">
+        $(document).ready(function(){
+          $("a[rel^='prettyPhoto']").prettyPhoto({social_tools:false});
+          });
+      </script>
     </div>
   </body>
 </html>
