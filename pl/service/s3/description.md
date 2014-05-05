@@ -1,13 +1,16 @@
-Niezależnie od tego, czy planują Państwo sprzedaż czy też kupno nieruchomości konieczne jest rozpoznanie rynku oraz rozważnie wszystkich dostępnych możliwości. W takich sytuacjach nieocenione jest doświadczenie specjalistów, którzy swoją wiedzą mogą wesprzeć Państwa w podejmowaniu decyzji.
+Każda nieruchomość wymaga sprawnego zarządzania. Dzięki niemu możliwe jest zwiększenie wartości inwestycji.  W ramach swoich usług Kranford podejmuje się zarówno poszukiwania najemców, zarządzania umowami najmu, rozliczenia i optymalizacji kosztów czy koordynacji obsługi technicznej.
 
-Kranford oferuje pomoc na każdym etapie inwestycji – od rozpoznania rynku, przez pomoc w kupnie lub sprzedaży aż po zarządzanie inwestycją.
+Rozumiem zarówno potrzeby wynajmujących, jak i najemców, dzięki czemu staramy się zapewnić komfort obu stronom transakcji.
 
 Oferujemy:
-- badania rynku
-- analizy finansowe projektu
-- analizy opłacalności
-- doradztwo finansowe
-- kupno/ sprzedaż nieruchomości
-- wsparcie podczas procedur przetargowych
+- aktywne zarządzanie najmem
+- kontakty z najemcami
+- obsługa finansowa oraz raportowanie
+- księgowość
+- optymalizacja kosztów
+- nadzór nad eksploatacją nieruchomości
+- doradztwo remontowe
+- rekomendacja podwykonawców oraz nadzór nad podwykonawcami
+- strategia marketingowa
 
 Kranford to firma stale poszerzająca swoją ofertę. Nasi specjaliście nieprzerwanie rozwijają się i rozwijają swoje kompetencje. Dlatego, jeśli nie znaleźli Państwo interesującej Was usługi zachęcamy do bezpośredniego kontaktu.

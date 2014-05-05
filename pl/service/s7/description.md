@@ -1,12 +1,12 @@
-Precyzyjne planowanie, realizacja oraz kontrola sprawowana nad projektem to klucz do sukcesu każdej inwestycji. Doradcy firmy Kranford oferują swoją szeroką wiedzę oraz wieloletnie doświadczenie, dzięki którym mamy możliwość zapewnić Państwu wielotorowe wsparcie na każdym etapie inwestycji.
+Zagraniczne firmy budowlane muszą pokonać wiele przeszkód podczas wchodzenia na nowy rynek. Dlatego Kranford oferuje wielostronne wsparcie wszystkim tym, którzy chcieliby spróbować swoich sił w Polsce. Wieloletnie doświadczenie i rozbudowana sieć kontaktów pozwala na wsparcie zagranicznych firm budowlanych zarówno podczas poszukiwania lokalnych partnerów, jak również udziału w przetargach. 
 
 Oferujemy:
+- bazę danych
+- aktualne informacje na temat przetargów
+- stale aktualizowaną wiedzę na temat polskiego rynku nieruchomości
+- wsparcie podczas organizowania wszelkich kwestii formalnych
+- wsparcie w przygotowaniu dokumentacji
+- rozbudowaną sieć kontaktów zarówno wśród inwestorów, jak i wykonawców
 
-- doradztwo i wsparcie w negocjacjach
-- prowadzenie negocjacji w imieniu Klientów
-- wieloletnie doświadczenie i znajomość rynku
-- opracowanie kosztorysów i raportów
-- koordynacja przebiegu inwestycji
-- bezpieczeństwo transakcji praz poufność
 
 Kranford to firma stale poszerzająca swoją ofertę. Nasi specjaliście nieprzerwanie rozwijają się i rozwijają swoje kompetencje. Dlatego, jeśli nie znaleźli Państwo interesującej Was usługi zachęcamy do bezpośredniego kontaktu.

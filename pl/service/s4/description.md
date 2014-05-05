@@ -1,17 +1,18 @@
-W ramach swoich usług Kranford oferuje doradztwo oraz pomoc w wynajmie centrów i parków handlowych, a także powierzchni biurowych. Wspieramy zarówno właścicielom nieruchomości w doborze najemców, jak i zainteresowanym najmem powierzchni handlowych. 
+Niezależnie od tego czy są Państwo inwestorami, kupującymi, pożyczkodawcami czy najemcami właściwa wycena nieruchomości ma kluczowe znaczenia dla pomyślnej realizacji Państwa projektów. Dlatego Kranford oferuje Klientom swoje wieloletnie doświadczenie, znajomość rynku oraz specjalistyczną wiedzę.
+ 
+Nasi specjaliści podejmą się wielostronnej analizy rynku, wyceny gruntów oraz nieruchomości, a także zapewnią wsparcie na każdym etapie ewentualnej inwestycji.
 
-Znakomita znajomość szybko rozwijającego się rynku pozwala nam prowadzić negocjacje handlowe z sukcesem dla wszystkich zainteresowanych stron.
-
-Oferujemy:
-- pomoc w doborze najemców
-- poszukiwanie powierzchni handlowych
-- negocjacje handlowe
-- optymalizacja warunków najmu
-- ocena aktualnych trendów panujących na rynku
-- tworzenie baz danych
-- opracowanie strategii rynkowej
-- doradztwo w zakresie treści umów najmu
-- doradztwo budowlane i techniczne
-- pomoc w tworzeniu planów marketingowych i budżetów
+Oferujemy: 
+- wycenę wszystkich rodzajów nieruchomości komercyjnych (biurowych, handlowych i magazynowych) 
+- wyceny gruntów
+- wycenę nieruchomości mieszkaniowych
+- wyceny okresowe i sprawozdania finansowe
+- ocenę finansową planowanej inwestycji
+- obiektywną ocenę szans i zagrożeń projektu
+- sporządzenie studium wykonalności i opłacalności inwestycji
+- przeprowadzenie badań i opis wybranych sektorów rynku nieruchomości
+- przeprowadzenie wszelkich działań związanych z kupnem lub sprzedażą nieruchomości
+- wsparcie na każdym etapie inwestycji
+- znajomość aktualnej sytuacji na rynku, popartą wieloletnim doświadczeniem naszych specjalistów
 
 Kranford to firma stale poszerzająca swoją ofertę. Nasi specjaliście nieprzerwanie rozwijają się i rozwijają swoje kompetencje. Dlatego, jeśli nie znaleźli Państwo interesującej Was usługi zachęcamy do bezpośredniego kontaktu.
